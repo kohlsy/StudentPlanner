@@ -9,5 +9,7 @@ In addition, many students have trouble remembering tasks that they need to comp
 **Functionality**
 
 Organization - keeps track of tasks
+
 Time Management - schedules your day and allocates tasks based on free time available
+
 Prioritization - ranks tasks based on priority to keep you on top of your day
