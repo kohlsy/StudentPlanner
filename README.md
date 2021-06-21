@@ -18,13 +18,22 @@ Prioritization - ranks tasks based on priority assigned by user and deadline dat
 
 ## Purposes
 
-activities_mod.py - list of activity types
+activities_mod.py - list of activity types 
+
 calendar_mod.py - calendar 
+
 createTask_mod.py - create tasks
+
 encryptpwd - encrypt password
+
 home_mod.py - home page
+
 schedule.py - schedule tasks
+
 signin_mod.py - sign in
+
 tasks_mod.py - list of tasks
+
 timeslot_mod.py - allocation of tasks to free time slots
+
 updatepriority.py - update task priority 
